@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RusticoZxZ
+- 👋 Hi, I’m @RusticoZxZ 🇧🇷
 - 👀 I’m interested in learn
 - 🌱 I’m currently learning Some programming languages
 - 💞️ I’m looking to collaborate on development
