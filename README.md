@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on development
 - 📫 How to reach me: For email or Discord: ossohumano
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: programming will dominate the world
+- ⚡ fact: programming will dominate the world
 
 <!---
 RusticoZxZ/RusticoZxZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
